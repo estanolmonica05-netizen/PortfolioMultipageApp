@@ -26,7 +26,7 @@ HTML (via Markdown/CSS styling) – Used for layout and structure customization
 CSS (custom styling) – For colors, gradients, cards, and animations
 🚀 How to Use
 
-Run the application locally using:
+Run the application locally using:https://github.com/estanolmonica05-netizen/PortfolioMultipageApp
 
 streamlit run app.py
 View the portfolio in your browser.
